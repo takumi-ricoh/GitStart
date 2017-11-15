@@ -1,1 +1,12 @@
+<<<<<<< HEAD
 aaa
+=======
+aaa
+ccc
+hello
+<<<<<<< Updated upstream
+=======
+fasfasdfa
+>>>>>>> Stashed changes
+bbb
+>>>>>>> origin/master
