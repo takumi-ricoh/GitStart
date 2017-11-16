@@ -4,9 +4,13 @@ aaa
 aaa
 ccc
 hello
+<<<<<<< HEAD
 <<<<<<< Updated upstream
 =======
 fasfasdfa
 >>>>>>> Stashed changes
 bbb
 >>>>>>> origin/master
+=======
+bbb
+>>>>>>> parent of 741e417... 作り直し
